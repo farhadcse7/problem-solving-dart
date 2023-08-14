@@ -1,0 +1,8 @@
+//How to Fix the "src refspec master does not match any" Error
+https://www.freecodecamp.org/news/error-src-refspec-master-does-not-match-any-how-to-fix-in-git/
+
+git checkout -b master
+
+# add commit
+
+git push origin master
