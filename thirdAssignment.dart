@@ -1,6 +1,4 @@
-/*
-মডিউল ৩ এর এসাইনমেন্ট
-*/
+/*মডিউল ৩ এর এসাইনমেন্ট*/
 
 //Car class
 class Car {
@@ -15,7 +13,7 @@ class Car {
     numberOfCars++;
   }
 
-//sub funtions
+//sub funtions started
   void drive(double miles) {
     milesDriven += miles;
   }
