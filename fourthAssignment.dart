@@ -15,7 +15,7 @@ abstract class Account {
   void withdraw(double amount);
 }
 
-//Savings class
+//SavingsAccount class
 class SavingsAccount extends Account {
   double interestRate;
 
